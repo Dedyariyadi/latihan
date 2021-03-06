@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table Test</title>
+</head>
+<body>
+
+<table border="1" cellspacing="0" cellpadding="5" table style="text-align:center"> 
+	<tr>
+		<td colspan="6">Absensi</td>
+
+	</tr>
+	<tr>
+		<td>No.</td>
+		<td>Nama</td>
+		<td>S</td>
+		<td>I</td>
+		<td>A</td>
+		<td>Keterangan</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Dedy Ariyadi</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>wahyu</td>
+		<td>V</td>
+		<td></td>
+		<td></td>
+		<td>Sakit</td>
+	</tr>
+</table>
+
+</body>
+</html>
