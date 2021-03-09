@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table Laporan Nilai</title>
+</head>
+<body>
+
+<table border="1" cellspacing="3" cellpadding="8" table	style="text-align: ">
+	<tr>
+		<td rowspan="2"><center>No</center></td>
+		<td rowspan="2"	width="250"><center>Nama</center></td>
+		<td rowspan="2" width="250"><center>Mata Pelajaran</center></td>
+		<td colspan="6" width="400"><center>Semester</center></td>
+		<td rowspan="2" width="120"><center>Keterangan</center></td>
+		<td rowspan="2" width="120"><center>Aksi</center></td>
+	</tr>
+	<tr>
+		<td><center>1</center></td>
+		<td><center>2</center></td>
+		<td><center>3</center></td>
+		<td><center>4</center></td>
+		<td><center>5</center></td>
+		<td><center>6</center></td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Dedy Ariyadi</td>
+		<td>Algoritma Dasar</td>
+		<td>80</td>
+		<td>85</td>
+		<td>75</td>
+		<td>90</td>
+		<td>95</td>
+		<td>80</td>
+		<td>Lulus</td>
+		<td><a href="Formulir.html" target="blank">Ubah</a></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>wahyu</td>
+		<td>Database</td>
+		<td>70</td>
+		<td>75</td>
+		<td>85</td>
+		<td>90</td>
+		<td>90</td>
+		<td>85</td>
+		<td>Lulus</td>
+		<td><a href="Formulir.html" target="blank">Ubah</a></td>
+	</tr>
+</table>
+
+</body>
+</html>
